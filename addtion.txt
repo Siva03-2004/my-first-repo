@@ -1,6 +1,5 @@
-num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
+a=20
+b=40
+c=40
+print(a+b+c)
 
-sum_result = num1 + num2
-
-print("The sum is:", sum_result)
