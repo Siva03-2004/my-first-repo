@@ -1,0 +1,9 @@
+Name : SIVA ALLADHI
+Course: BCA (Bachelor of Computer Application)
+
+Things I learnt from GitHub
+
+How to create an account
+How to create a new repository
+How to add files
+How to edit written codes
